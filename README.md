@@ -35,9 +35,13 @@ Fully Connected Layer
 Output (Real / Synthetic)
 
 INSTALLATION 
+
 git clone https://github.com/Sornamalya0704/SyntheticImageDetector.git
+
 cd detector
+
 pip install -r requirements.txt
 
 RUNNING THE APPLICATION 
+
 streamlit run frontend.py
